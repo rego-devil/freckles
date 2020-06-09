@@ -1,0 +1,17 @@
+.form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+input[type=submit] {
+  font-family: Arsenal,Arial,sans-serif;
+  background: linear-gradient(to right,#123e6f 0,#1d97d8 100%);
+  border: none;
+  font-size: 20px;
+  color: #fff;
+  width: 100%;
+  height: 40px;
+  line-height: 20px;
+  display: block;
+  margin: 20px 0 0 0;
+}
